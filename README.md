@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👾 **My name is Smyan Jaipuriyar, I'm currently a junior at the University of California, Santa Barbara studying Statistics and Data Science **
+- ## My name is Smyan Jaipuriyar, I'm currently a junior at the University of California, Santa Barbara studying Statistics and Data Science 
 
 - 
 - 🔭 I’m currently working on ... building projects 
