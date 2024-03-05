@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Smyan Jaipuriyar</h1>
 <h3 align="center">A junior studying Statistics and Data Science @ UC Santa Barbara</h3>
 
-- 🌱 I’m currently learning back-end development, and technical interview prep through codepath **Python, JavaScript, HTML, CSS, Node.js, React.js**
+- 🌱 I’m currently focused on learning back-end development, and technical interview prep through codepath
+
+
+-   **Python, JavaScript, HTML, CSS, Node.js, React.js**
 
 - 👨‍💻 All of my projects are available at [smyanjaip.com](smyanjaip.com)
 
