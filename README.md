@@ -3,9 +3,6 @@
 
 - 🌱 I’m currently focused on learning back-end development
 
-
--   **Python, JavaScript, HTML, CSS, Node.js, React.js**
-
 - 👨‍💻 All of my projects are available at [smyanjaip.com](smyanjaip.com)
 
 - 📫 How to reach me **sjaipuriyar@ucsb.edu**
