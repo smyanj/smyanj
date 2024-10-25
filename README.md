@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smyan Jaipuriyar</h1>
 <h3 align="center">A junior studying Statistics and Data Science @ UC Santa Barbara</h3>
 
-- 🌱 I’m currently focused on learning back-end development
-
-- 👨‍💻 All of my projects are available at [smyanjaip.com](smyanjaip.com)
+- 🌱 I’m currently focused on learning back-end development, GO
 
 - 📫 How to reach me **sjaipuriyar@ucsb.edu**
 
@@ -20,7 +18,7 @@
 
 <!--
 **smyanj/smyanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 👨‍💻 All of my projects are available here on Github!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
