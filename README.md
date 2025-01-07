@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smyan Jaipuriyar</h1>
 <h3 align="center">Senior studying Statistics and Data Science @ UC Santa Barbara</h3>
 
-About me
 
 - 🌱 I’m currently focused on learning back-end development, GO
 
