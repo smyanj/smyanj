@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently focused on learning back-end development, GO
 
-- 📫 How to reach me **sjaipuriyar@ucsb.edu**
+- 📫 How to reach me **sjaipuriyar6@gatech.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
