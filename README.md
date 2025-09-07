@@ -2,7 +2,7 @@
 <h3 align="center">UCSB Alum, Masters in Computer Science @ Georgia Tech! </h3>
 
 
-- 🌱 I’m currently focused on learning back-end development, GO
+- 🌱 I’m currently focused on learning back-end development, GO, C, C++
 
 - 📫 How to reach me **sjaipuriyar6@gatech.edu**
 
