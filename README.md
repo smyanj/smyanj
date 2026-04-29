@@ -8,6 +8,7 @@
 - 🌱 B.S. Statistics and Data Science Alum @ UC Santa Barbara
 
 - 📫 How to reach me: **sjaipuriyar6@gatech.edu** or **smyanj5000@gmail.com**
+- For any Georgia Tech related projects, please DM personally.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
