@@ -204,7 +204,7 @@
   <text class="name-outline" x="260" y="274">JAIPURIYAR</text>
   <text class="name-inner" x="260" y="274">JAIPURIYAR</text>
 
-  <text class="subtitle" x="472" y="326">PRESS START ▶ SOFTWARE ENGINEER</text>
+  <text class="subtitle" x="472" y="326">PRESS START ▶ </text>
 </svg>
 ing pokemon-readme-banner.svg…]()
 
